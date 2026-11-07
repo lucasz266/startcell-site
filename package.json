@@ -1,0 +1,14 @@
+{
+  "name": "startcell-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo de site institucional responsivo para loja de celulares e assistência técnica.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
